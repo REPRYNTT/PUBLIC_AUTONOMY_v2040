@@ -1,0 +1,34 @@
+{
+  "url": "https://grokipedia.com/wiki/Example_Subject",
+  "title": "Example Subject - Grokipedia",
+  "content": "This is an example of what the extracted content would look like from a Grokipedia article. The script extracts all text content from the main content area of the page.\n\nThis includes paragraphs, headings, and other text elements. Links and formatting are preserved in the text extraction.",
+  "sections": [
+    {
+      "level": 1,
+      "text": "Introduction"
+    },
+    {
+      "level": 2,
+      "text": "Background"
+    },
+    {
+      "level": 2,
+      "text": "Applications"
+    }
+  ],
+  "links": [
+    {
+      "text": "Related Article",
+      "url": "https://grokipedia.com/wiki/Related_Article"
+    },
+    {
+      "text": "External Link",
+      "url": "https://example.com/external"
+    }
+  ],
+  "metadata": {
+    "description": "An example article on Grokipedia",
+    "keywords": "example, grokipedia, article",
+    "author": "Grokipedia Contributors"
+  }
+}
